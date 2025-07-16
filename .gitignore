@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Data files
+data/raw/
+*.tif
+*.zip
+
+# Models
+*.pkl
+*.joblib
+
+# VS Code settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
